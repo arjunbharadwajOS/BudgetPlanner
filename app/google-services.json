@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1020385072618",
+    "firebase_url": "https://budget-9b41b.firebaseio.com",
+    "project_id": "budget-9b41b",
+    "storage_bucket": "budget-9b41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020385072618:android:f515085f01f20f86",
+        "android_client_info": {
+          "package_name": "com.example.admin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020385072618-bs9rgba6a9aod7puf1a5n53hnbblcmok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.myapplication",
+            "certificate_hash": "565d72fe76fc0abf3082d55caad67ac95eea6736"
+          }
+        },
+        {
+          "client_id": "1020385072618-tgdkgsl2csrfp3ot4iabr0to8qcioods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZGfEHdcj4FlPHf152EKaCRAJLAZiJeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020385072618-tgdkgsl2csrfp3ot4iabr0to8qcioods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020385072618:android:ca50efb340af9850",
+        "android_client_info": {
+          "package_name": "com.budget.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020385072618-tgdkgsl2csrfp3ot4iabr0to8qcioods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZGfEHdcj4FlPHf152EKaCRAJLAZiJeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020385072618:android:b3aa0bfa87cd6686",
+        "android_client_info": {
+          "package_name": "planner.budget.com.budgetplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020385072618-890mi3cq83n8ot13h4l6bfujkm0d11hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "planner.budget.com.budgetplanner",
+            "certificate_hash": "565d72fe76fc0abf3082d55caad67ac95eea6736"
+          }
+        },
+        {
+          "client_id": "1020385072618-tgdkgsl2csrfp3ot4iabr0to8qcioods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZGfEHdcj4FlPHf152EKaCRAJLAZiJeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020385072618-tgdkgsl2csrfp3ot4iabr0to8qcioods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
